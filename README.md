@@ -10,12 +10,13 @@
 </div>
 
 ### 👩‍💻 About Me
+<div align="center">
 Hi 👋 I’m **Archna Giri**, a **B.Sc. Forensic Science graduate** with a strong interest in  
 **Cybersecurity, Digital Forensics, and Ethical Hacking**.
 
 I enjoy working on **hands-on labs, cybersecurity tools, automation scripts, and forensic analysis**.  
 Currently preparing for **UPSC** while building a **strong GitHub profile through daily practice and projects**.
-
+</div>
 ---
 
 ### 🔧 Technologies & Tools
