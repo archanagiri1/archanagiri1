@@ -38,15 +38,12 @@ Currently preparing for **UPSC** while building a **strong GitHub profile throug
 </div>
 
 ### 📊 GitHub Stats
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=archanagiri1&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=archanagiri1&theme=vision-friendly-dark&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archanagiri1&theme=vision-friendly-dark&hide_border=true&layout=compact" />
-
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=archanagiri1"
+    alt="Github Streak"
+   />
+</p>
 
 ---
 
